@@ -1,5 +1,3 @@
-Voici une version **Customer Churn** avec exactement le même style, prête à mettre dans ton portfolio :
-
 # **Customer Churn Analysis Dashboard**
 
 Interactive Power BI dashboard designed to monitor customer churn, retention, and customer behavior.
